@@ -24,6 +24,16 @@ const projects = [
     year: '2026',
     status: 'in-progress',
   },
+  {
+    id: 3,
+    title: 'TNetra Trading',
+    subtitle: 'Complete Trading Website',
+    description: 'A fully completed and deployed trading website showcasing my work, design, and feature implementation.',
+    tags: ['React', 'Tailwind CSS', 'Vercel'],
+    link: 'https://tnetra-trading.vercel.app',
+    year: '2026',
+    status: 'completed',
+  },
 ];
 
 const containerVariants = {

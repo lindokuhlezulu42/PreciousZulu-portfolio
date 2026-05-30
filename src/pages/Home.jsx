@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { ArrowRight, Download, MapPin } from 'lucide-react';
 
-const PROFILE_IMG = "https://media.base44.com/images/public/user_691b54e14653d92192f8e259/e03e609cc_profile.jpg";
+const PROFILE_IMG = "/Lindo.jpg";
 const BG_IMG = "https://media.base44.com/images/public/user_691b54e14653d92192f8e259/c9e7277dc_image.jpg";
 
 export default function Home() {
