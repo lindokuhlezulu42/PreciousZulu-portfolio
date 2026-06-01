@@ -41,12 +41,11 @@ export default function Home() {
                 Hey, I'm{' '}
                 <span className="text-primary">Precious</span>
                 <br />
-                <span className="text-primary">Zulu</span>
+                <span className="text-primary">Heavens</span>
               </h1>
 
               <p className="text-lg text-muted-foreground max-w-lg leading-relaxed">
-                Junior Software Developer focused on building modern, responsive websites and web applications. 
-                I turn ideas into functional digital products using clean, efficient code.
+                Junior Web Developer & Software Developer specializing in responsive websites and software applications. Passionate about solving problems, learning new technologies, and transforming ideas into practical digital solutions through clean and efficient code.
               </p>
             </div>
 
